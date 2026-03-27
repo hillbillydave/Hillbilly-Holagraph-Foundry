@@ -1,0 +1,166 @@
+Holagraph Peaceful‑Use License (HPUL‑1.0)
+Copyright © 2026 David E. Blackwell
+
+Preamble
+The Holagraph Slab Framework, including all equations, control laws, emitter‑grid
+architectures, simulations, hardware requirements, and derivative concepts, is released
+freely for peaceful, civilian, scientific, artistic, exploratory, and humanitarian use.
+This license exists to prevent militarization, coercive applications, and harmful use of
+the framework in any form.
+
+----------------------------------------------------------------------
+1. Allowed Uses
+----------------------------------------------------------------------
+The Holagraph Framework may be used for:
+• scientific research
+• artistic and media development
+• immersive environments
+• civilian exploration and spacecraft interfaces
+• educational and humanitarian technologies
+• peaceful technological advancement
+
+All allowed uses must comply with Sections 3–9 of this license.
+
+----------------------------------------------------------------------
+2. Prohibited Uses
+----------------------------------------------------------------------
+The Holagraph Framework may NOT be used for:
+• weapons or weapons-adjacent systems
+• military targeting, tracking, or combat platforms
+• intelligence, surveillance, or coercive technologies
+• government use in conflict zones
+• harmful, oppressive, or violent applications
+
+Legal Basis:
+• Geneva Conventions (1949)
+• Hague Convention IV (1907)
+• UN Charter Articles 1, 2(4), and 55
+• Rome Statute Articles 7 and 8
+
+Any violation constitutes misuse of civilian scientific work for hostile purposes.
+
+----------------------------------------------------------------------
+3. Humanitarian Exceptions
+----------------------------------------------------------------------
+The following uses are permitted:
+• hospitals and medical facilities
+• ambulances and emergency medical services
+• civilian rescue operations
+• accredited journalists in conflict zones
+• UN peacekeeping observers
+
+Legal Basis:
+• Geneva Convention I (Medical Neutrality)
+• UN Security Council Resolution 1738
+• Customary IHL Rule 25
+
+----------------------------------------------------------------------
+4. Derivative Works
+----------------------------------------------------------------------
+Any technology that uses:
+• the equations in Section 6 of the manuscript
+• emitter‑grid interference
+• phase‑locked optical surfaces
+• reinforcement feedback
+• or any mathematical/engineering extension
+
+is considered a derivative work.
+
+All derivative works MUST:
+• acknowledge the original author
+• remain open-source
+• follow peaceful‑use restrictions
+• provide a prototype to the author and family
+• release firmware and schematics openly
+• remain available for scientific review
+
+Legal Basis:
+• Berne Convention Article 2(3)
+• Title 17 U.S.C. §101 and §106A
+
+----------------------------------------------------------------------
+5. Commercial Use Requirements
+----------------------------------------------------------------------
+Any commercial device derived from this framework MUST:
+• be repairable and modular
+• include full schematics and wiring diagrams
+• include a bill of materials (BOM)
+• use open-source firmware and operating systems
+• avoid DRM, encryption lockouts, and cloud activation
+• avoid subscription‑locked functionality
+• provide one full working prototype to the author and his immediate family
+
+Legal Basis:
+• Magnuson‑Moss Warranty Act (15 U.S.C. §2301–2312)
+• DMCA §1201 repair exemptions
+• EU Ecodesign Directive 2009/125/EC
+• EU Right‑to‑Repair Regulation (2021/341)
+• EU Digital Markets Act (2022/1925)
+
+----------------------------------------------------------------------
+6. Open Firmware Requirement
+----------------------------------------------------------------------
+All firmware, drivers, and operating systems MUST be:
+• free
+• open-source
+• modifiable by the user
+• not encrypted to block repair
+• not tied to proprietary cloud services
+• not behind paywalls
+
+Firmware must be licensed under:
+• GPLv3, AGPLv3, Apache 2.0, MIT, or equivalent
+
+----------------------------------------------------------------------
+7. Anti‑Lockdown Clause
+----------------------------------------------------------------------
+Manufacturers may NOT:
+• use DRM to block repair
+• encrypt firmware to prevent modification
+• disable devices remotely
+• tie hardware to proprietary ecosystems
+• require cloud activation for basic functionality
+
+Legal Basis:
+• DMCA §1201 exemptions
+• FTC v. Harley‑Davidson (2022)
+• EU DMA Article 5(5)
+
+----------------------------------------------------------------------
+8. Crimes Against Humanity Clause
+----------------------------------------------------------------------
+Any use of this framework that results in:
+• harm
+• coercion
+• targeting
+• military deployment
+• or civilian injury
+
+is considered a crime against humanity under:
+• Rome Statute Article 7
+• Rome Statute Article 8
+• Geneva Conventions (grave breaches)
+
+----------------------------------------------------------------------
+9. Termination
+----------------------------------------------------------------------
+Any violation of:
+• peaceful‑use restrictions
+• open‑hardware requirements
+• prototype obligations
+• or anti‑military clauses
+
+immediately terminates this license.
+
+----------------------------------------------------------------------
+10. Jurisdiction
+----------------------------------------------------------------------
+This license is enforceable under:
+• Berne Convention
+• U.S. Copyright Act Title 17
+• International Humanitarian Law
+• EU Digital Markets and Right‑to‑Repair regulations
+
+----------------------------------------------------------------------
+End of License
+----------------------------------------------------------------------
