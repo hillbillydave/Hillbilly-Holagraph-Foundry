@@ -1,166 +1,280 @@
-Holagraph Peaceful‑Use License (HPUL‑1.0)
-Copyright © 2026 David E. Blackwell
+HOLAGRAPH PEACEFUL-USE LICENSE
 
-Preamble
-The Holagraph Slab Framework, including all equations, control laws, emitter‑grid
-architectures, simulations, hardware requirements, and derivative concepts, is released
-freely for peaceful, civilian, scientific, artistic, exploratory, and humanitarian use.
-This license exists to prevent militarization, coercive applications, and harmful use of
-the framework in any form.
+(HPUL-X.2)
 
-----------------------------------------------------------------------
-1. Allowed Uses
-----------------------------------------------------------------------
-The Holagraph Framework may be used for:
-• scientific research
-• artistic and media development
-• immersive environments
-• civilian exploration and spacecraft interfaces
-• educational and humanitarian technologies
-• peaceful technological advancement
+Version: X.2
 
-All allowed uses must comply with Sections 3–9 of this license.
+Licensor: David E. Blackwell
 
-----------------------------------------------------------------------
-2. Prohibited Uses
-----------------------------------------------------------------------
-The Holagraph Framework may NOT be used for:
-• weapons or weapons-adjacent systems
-• military targeting, tracking, or combat platforms
-• intelligence, surveillance, or coercive technologies
-• government use in conflict zones
-• harmful, oppressive, or violent applications
+Effective Date: April 22, 2026
 
-Legal Basis:
-• Geneva Conventions (1949)
-• Hague Convention IV (1907)
-• UN Charter Articles 1, 2(4), and 55
-• Rome Statute Articles 7 and 8
+All rights reserved under applicable international copyright and intellectual-property law.
 
-Any violation constitutes misuse of civilian scientific work for hostile purposes.
+DEFINITIONS — COVERED SUBSYSTEMS AND KEY TERMS
 
-----------------------------------------------------------------------
-3. Humanitarian Exceptions
-----------------------------------------------------------------------
-The following uses are permitted:
-• hospitals and medical facilities
-• ambulances and emergency medical services
-• civilian rescue operations
-• accredited journalists in conflict zones
-• UN peacekeeping observers
+1.   "Licensed Technology" shall mean the entire Holagraph Foundry ecosystem, including, without limitation, all designs, specifications, algorithms, control laws, equations, schematics, firmware, software, hardware architectures, engineering principles, simulation models, and documentation associated therewith. The Licensed Technology expressly encompasses the following subsystems and components (collectively, the "Covered Subsystems"):
 
-Legal Basis:
-• Geneva Convention I (Medical Neutrality)
-• UN Security Council Resolution 1738
-• Customary IHL Rule 25
+(a)  Holagraph Slabs;
 
-----------------------------------------------------------------------
-4. Derivative Works
-----------------------------------------------------------------------
-Any technology that uses:
-• the equations in Section 6 of the manuscript
-• emitter‑grid interference
-• phase‑locked optical surfaces
-• reinforcement feedback
-• or any mathematical/engineering extension
+(b)  Emitter Grids;
 
-is considered a derivative work.
+(c)  TIM Solids;
 
-All derivative works MUST:
-• acknowledge the original author
-• remain open-source
-• follow peaceful‑use restrictions
-• provide a prototype to the author and family
-• release firmware and schematics openly
-• remain available for scientific review
+(d)  Voxel Solids;
 
-Legal Basis:
-• Berne Convention Article 2(3)
-• Title 17 U.S.C. §101 and §106A
+(e)  Multimaterial Emitters;
 
-----------------------------------------------------------------------
-5. Commercial Use Requirements
-----------------------------------------------------------------------
-Any commercial device derived from this framework MUST:
-• be repairable and modular
-• include full schematics and wiring diagrams
-• include a bill of materials (BOM)
-• use open-source firmware and operating systems
-• avoid DRM, encryption lockouts, and cloud activation
-• avoid subscription‑locked functionality
-• provide one full working prototype to the author and his immediate family
+(f)  The Foundry Architecture;
 
-Legal Basis:
-• Magnuson‑Moss Warranty Act (15 U.S.C. §2301–2312)
-• DMCA §1201 repair exemptions
-• EU Ecodesign Directive 2009/125/EC
-• EU Right‑to‑Repair Regulation (2021/341)
-• EU Digital Markets Act (2022/1925)
+(g)  Holagraph Reinforcement Shells;
 
-----------------------------------------------------------------------
-6. Open Firmware Requirement
-----------------------------------------------------------------------
-All firmware, drivers, and operating systems MUST be:
-• free
-• open-source
-• modifiable by the user
-• not encrypted to block repair
-• not tied to proprietary cloud services
-• not behind paywalls
+(h)  Holagraph Phase-Lock Controllers;
 
-Firmware must be licensed under:
-• GPLv3, AGPLv3, Apache 2.0, MIT, or equivalent
+(i)  Holagraph Coherence-Control Layers;
 
-----------------------------------------------------------------------
-7. Anti‑Lockdown Clause
-----------------------------------------------------------------------
-Manufacturers may NOT:
-• use DRM to block repair
-• encrypt firmware to prevent modification
-• disable devices remotely
-• tie hardware to proprietary ecosystems
-• require cloud activation for basic functionality
+(j)  Holagraph Feedback Loops;
 
-Legal Basis:
-• DMCA §1201 exemptions
-• FTC v. Harley‑Davidson (2022)
-• EU DMA Article 5(5)
+(k)  Holagraph Stability Functions;
 
-----------------------------------------------------------------------
-8. Crimes Against Humanity Clause
-----------------------------------------------------------------------
-Any use of this framework that results in:
-• harm
-• coercion
-• targeting
-• military deployment
-• or civilian injury
+(l)  Holagraph Projection-Capacity Fields;
 
-is considered a crime against humanity under:
-• Rome Statute Article 7
-• Rome Statute Article 8
-• Geneva Conventions (grave breaches)
+(m)  Holagraph Simulation Engines;
 
-----------------------------------------------------------------------
-9. Termination
-----------------------------------------------------------------------
-Any violation of:
-• peaceful‑use restrictions
-• open‑hardware requirements
-• prototype obligations
-• or anti‑military clauses
+(n)  Holagraph Room-Scale Environments;
 
-immediately terminates this license.
+(o)  Holagraph Multimaterial Emitter Arrays; and
 
-----------------------------------------------------------------------
-10. Jurisdiction
-----------------------------------------------------------------------
-This license is enforceable under:
-• Berne Convention
-• U.S. Copyright Act Title 17
-• International Humanitarian Law
-• EU Digital Markets and Right‑to‑Repair regulations
+(p)  Holagraph TIM-Transfer Mediums.
 
-----------------------------------------------------------------------
-End of License
-----------------------------------------------------------------------
+2.   "Licensee" shall mean any natural person, legal entity, organization, government body, institution, or agent that obtains, accesses, uses, modifies, distributes, manufactures, or otherwise exercises any right with respect to the Licensed Technology or any Derivative Work thereof, whether by express agreement, implied license, or operation of law.
+
+3.   "Derivative Work" shall mean any work, system, product, apparatus, method, algorithm, simulation, or technology that is based upon, derived from, adapted from, inspired by, or constitutes a functional, behavioral, conceptual, or simulation equivalent of the Licensed Technology or any component thereof, as further defined in Article V of this License.
+
+4.   "Commercial Product" shall mean any product, system, service, device, apparatus, or offering — whether tangible or intangible — that incorporates, embodies, or is derived from the Licensed Technology and is sold, leased, licensed, distributed, or otherwise made available for monetary consideration or commercial advantage.
+
+5.   "Author" shall mean David E. Blackwell, the original creator and sole Licensor of the Licensed Technology, and his lawful successors, assigns, and estate.
+
+6.   "Peaceful Use" shall mean any use of the Licensed Technology that is exclusively civilian in nature and is directed toward scientific advancement, artistic expression, educational enrichment, humanitarian aid, medical application, or personal non-commercial experimentation, and that does not cause, facilitate, enable, or contribute to physical, psychological, or economic harm to any person or population.
+
+7.   "Prohibited Use" shall mean any use of the Licensed Technology that falls within the scope of Article III of this License, including, without limitation, any military, weaponized, coercive, oppressive, or harmful application, and any use by an entity subject to international sanctions for human-rights violations.
+
+ARTICLE I — PREAMBLE
+
+1.1    This Holagraph Peaceful-Use License, Version X.2 (hereinafter, the "License"), is promulgated by David E. Blackwell (hereinafter, the "Licensor" or the "Author") for the sole and express purpose of governing the use, reproduction, modification, distribution, manufacture, and commercialization of the Licensed Technology under terms that ensure its application is limited exclusively to Peaceful Use as defined herein.
+
+1.2    The Licensed Technology is offered to the world for civilian, scientific, artistic, educational, and humanitarian purposes. The Licensor intends that the Holagraph Foundry ecosystem shall serve as an instrument of human advancement — expanding the boundaries of knowledge, healing, creative expression, and shared wonder.
+
+1.3    The Licensor hereby explicitly, irrevocably, and unconditionally rejects all militarization, weaponization, and coercive use of the Licensed Technology, in whole or in part, in any form, in any jurisdiction, and under any circumstances. No grant of rights under this License shall be construed to authorize, permit, or condone any use of the Licensed Technology for the purpose of causing harm to any person, population, community, or sovereign state.
+
+1.4    The Licensor's intent, as the original author and architect of the Licensed Technology, is to advance humanity's capacity for wonder, knowledge, healing, and creative expression — never to cause harm. This intent shall govern the interpretation of every provision of this License, and any ambiguity herein shall be resolved in favor of the most restrictive reading that furthers Peaceful Use and prevents Prohibited Use.
+
+ARTICLE II — ALLOWED USES
+
+2.1    Subject to the terms and conditions of this License, the Licensor hereby grants to any Licensee a non-exclusive, worldwide, royalty-free, revocable license to use the Licensed Technology solely for the following Peaceful Uses:
+
+(a)  Civilian Scientific Research and Experimentation. Use of the Licensed Technology for the advancement of scientific knowledge through controlled experimentation, laboratory research, and peer-reviewed inquiry conducted by civilian institutions, independent researchers, or academic bodies.
+
+(b)  Scientific Exploration, Prototyping, and Publication. Use of the Licensed Technology for the development of experimental prototypes, proof-of-concept demonstrations, and the preparation, submission, and publication of scientific papers, technical reports, and research findings in recognized academic and professional journals.
+
+(c)  Artistic Installations, Immersive Environments, and Creative Expression. Use of the Licensed Technology for the creation of artistic works, immersive environments, light-based sculptures, performance art, museum exhibitions, theatrical productions, and any other form of creative expression intended for public or private display.
+
+(d)  Educational Tools, Classroom Demonstrations, and Academic Study. Use of the Licensed Technology in educational settings, including primary, secondary, and post-secondary institutions, for the purpose of teaching, classroom demonstration, curriculum development, student projects, and academic research.
+
+(e)  Humanitarian Technologies. Use of the Licensed Technology for the development and deployment of humanitarian applications, including, without limitation, medical imaging and diagnostic visualization, disaster-response planning and visualization, emergency-management training, accessibility tools for persons with disabilities, and any other application designed to preserve, protect, or improve human life and well-being.
+
+(f)  Personal, Non-Commercial Experimentation and Hobbyist Projects. Use of the Licensed Technology by individuals for personal learning, hobbyist experimentation, maker-community projects, and non-commercial exploration, provided such use does not result in a Commercial Product or Prohibited Use.
+
+ARTICLE III — PROHIBITED USES
+
+3.1    The following uses of the Licensed Technology are strictly and absolutely prohibited under this License. No Licensee, whether natural person, legal entity, government, military body, intelligence agency, contractor, or agent thereof, shall use, adapt, modify, incorporate, or deploy the Licensed Technology or any Derivative Work for any of the following purposes:
+
+(a)  Weapons Systems. The development, manufacture, deployment, testing, or operation of weapons systems of any kind, including, without limitation, directed-energy weapons, kinetic weapons, optical weapons, acoustic weapons, psychological weapons, autonomous weapons systems, and any other apparatus or method designed to injure, kill, incapacitate, or coerce any person or group of persons.
+
+(b)  Military Platforms and Installations. The integration of the Licensed Technology into any military platform, vehicle, vessel, aircraft, spacecraft, drone, installation, base, command-and-control system, or any other military infrastructure, whether offensive or defensive in nature.
+
+(c)  Targeting, Tracking, Surveillance, and Reconnaissance. The use of the Licensed Technology for the purpose of targeting, tracking, surveilling, or conducting reconnaissance against any person, group, population, or territory, whether by a state actor, non-state actor, or private entity.
+
+(d)  Coercive, Oppressive, and Authoritarian Technologies. The use of the Licensed Technology for the development or deployment of any technology designed to coerce, oppress, suppress, intimidate, or control civilian populations, including, without limitation, crowd-control systems, forced-compliance systems, mass surveillance networks, social-credit systems, and any apparatus of authoritarian governance.
+
+(e)  Use in Active Conflict Zones. Any use of the Licensed Technology by any government, state entity, military body, or agent thereof within active conflict zones, occupied territories, theaters of war, or areas subject to armed hostilities, except as expressly permitted under Article IV of this License.
+
+(f)  Applications Causing Harm. Any application of the Licensed Technology that is designed, intended, or reasonably expected to cause physical, psychological, or economic harm to any person, group of persons, or civilian population, whether directly or indirectly, and whether through immediate effect or foreseeable consequence.
+
+(g)  Use by Sanctioned Entities. Any use of the Licensed Technology by any entity, government, organization, or individual that is currently subject to international sanctions, embargoes, or restrictions imposed by the United Nations Security Council, the European Union, the United States Department of the Treasury Office of Foreign Assets Control (OFAC), or any other competent international authority, for human-rights violations, crimes against humanity, or acts of aggression.
+
+3.2    The prohibitions set forth in this Article are consistent with and reinforce the obligations established under the Geneva Conventions of 1949 and their Additional Protocols of 1977, the Hague Conventions of 1899 and 1907, the Charter of the United Nations, and the Rome Statute of the International Criminal Court. The Licensor invokes these instruments not as a claim of legislative authority but as a declaration that this License is intended to operate in harmony with the established norms of international humanitarian law and the protection of civilian life.
+
+ARTICLE IV — HUMANITARIAN EXCEPTIONS
+
+4.1    Notwithstanding the prohibitions set forth in Article III, the following uses of the Licensed Technology in conflict-adjacent, emergency, or humanitarian-crisis contexts are expressly permitted under this License:
+
+(a)  Hospitals and Civilian Medical Facilities. Use within hospitals, clinics, field hospitals, and civilian medical facilities for the purpose of medical diagnosis, treatment, surgical planning, patient care, and medical training.
+
+(b)  Emergency Medical Services and First-Responder Operations. Use by emergency medical technicians, paramedics, firefighters, and other first-responder personnel in the course of rendering emergency medical care, disaster relief, or civilian rescue operations.
+
+(c)  Civilian Search-and-Rescue Operations. Use in civilian search-and-rescue operations conducted for the purpose of locating, recovering, and providing aid to missing, injured, or displaced persons.
+
+(d)  Accredited Journalists. Use by journalists operating under recognized press credentials issued by accredited news organizations, press associations, or international media bodies, for the purpose of documenting, reporting, and disseminating information regarding humanitarian conditions, civilian welfare, and matters of public interest.
+
+(e)  United Nations Peacekeeping and Humanitarian Personnel. Use by United Nations peacekeeping observers, humanitarian-aid personnel, and authorized representatives of international humanitarian organizations operating under a mandate issued by the United Nations or its constituent agencies.
+
+4.2    The exceptions set forth in Section 4.1 shall apply only when and to the extent that the Licensed Technology is used exclusively for the protection, treatment, documentation, or preservation of civilian life. Under no circumstances shall the Licensed Technology, when deployed under these humanitarian exceptions, be integrated into, subordinated to, or operated under the direction of any military chain of command, intelligence apparatus, or armed combatant force. Any such integration shall immediately void the humanitarian exception and shall constitute a violation of Article III of this License.
+
+ARTICLE V — DERIVATIVE WORKS
+
+5.1    For the purposes of this License, the term "Derivative Work" shall be construed broadly and shall include, without limitation, any work, system, product, apparatus, method, process, algorithm, simulation, model, or technology that falls within any of the following categories:
+
+(a)  Direct Derivation. Any use, adaptation, extension, reimplementation, translation, or modification of the equations, control laws, emitter-grid interference patterns, phase-locking algorithms, reinforcement feedback mechanisms, simulation behaviors, engineering extensions, hardware designs, firmware, or software contained in or derived from the Licensed Technology.
+
+(b)  Functional Equivalents. Any system, apparatus, or method that produces the same or substantially similar functional output as the Licensed Technology or any component thereof, regardless of the internal architecture, implementation language, hardware platform, or design methodology employed.
+
+(c)  Behavioral Equivalents. Any system, apparatus, or method that exhibits the same or substantially similar operational behavior as the Licensed Technology or any component thereof, including, without limitation, equivalent input-output relationships, response characteristics, or performance profiles.
+
+(d)  Conceptual Equivalents. Any system, apparatus, or method whose core operating principle, architecture, design philosophy, or theoretical foundation is derived from, inspired by, or substantially similar to that of the Licensed Technology or any component thereof.
+
+(e)  Simulation Equivalents. Any system, model, or simulation whose simulated behavior replicates, approximates, or mirrors the outputs, dynamics, or performance characteristics of the Licensed Technology or any component thereof, whether in digital simulation, physical modeling, or hybrid environments.
+
+5.2    All Derivative Works, as defined in this Article, are and shall remain subject to all terms, conditions, prohibitions, obligations, and restrictions of this License in their entirety. The creation of a Derivative Work does not extinguish, diminish, or modify the Licensor's rights under this License or under applicable law. Any Licensee who creates, distributes, sells, or deploys a Derivative Work thereby accepts and is bound by all provisions of this License.
+
+ARTICLE VI — LOOPHOLE CLOSURES
+
+6.1    The Licensor hereby declares that the following actions, methods, strategies, and characterizations shall not exempt any work, system, product, or technology from classification as a Derivative Work, nor shall they relieve any Licensee of any obligation, restriction, or prohibition imposed by this License:
+
+(a)  Renaming. Renaming the Licensed Technology, any of its components, subsystems, algorithms, or methods, whether in whole or in part, shall not alter the applicability of this License.
+
+(b)  Reimplementation. Reimplementing the Licensed Technology in a different programming language, hardware platform, computing architecture, medium, substrate, or form factor shall not exempt the resulting work from the terms of this License.
+
+(c)  Partial Use. Using only a portion, subset, fragment, module, or individual component of the Licensed Technology shall not exempt the resulting work from the terms of this License. The protections of this License extend to every separable and inseparable element of the Licensed Technology.
+
+(d)  Abstraction. Abstracting the Licensed Technology into a different hardware form factor, software abstraction layer, API, framework, or system architecture shall not exempt the resulting work from the terms of this License.
+
+(e)  AI-Generated Derivatives. Using artificial intelligence, machine learning, neural networks, generative models, large language models, or any other computational technique to produce variants, mutations, derivatives, adaptations, or novel implementations of the Licensed Technology shall not exempt the resulting work from the terms of this License.
+
+(f)  "Inspired By" Claims. Claiming that a work is merely "inspired by," "influenced by," "based on the concepts of," or "in the spirit of" the Licensed Technology, rather than directly derived from it, shall not exempt the work from classification as a Derivative Work if it meets any of the criteria set forth in Article V.
+
+(g)  Functional Equivalence by Alternative Means. Producing a system that is functionally equivalent in output to the Licensed Technology, regardless of internal implementation, design pathway, or engineering methodology, shall not exempt the resulting work from the terms of this License.
+
+(h)  Behavioral Equivalence by Alternative Means. Producing a system that is behaviorally equivalent in operation to the Licensed Technology, regardless of stated derivation, design history, or declared originality, shall not exempt the resulting work from the terms of this License.
+
+(i)  Simulation, Modeling, or Predictive Equivalence. Producing a system that is equivalent in simulation, modeling, or predictive behavior to the Licensed Technology shall not exempt the resulting work from the terms of this License.
+
+6.2    The foregoing closures are non-exhaustive. They are illustrative of the Licensor's intent but do not represent the full scope of prohibited circumvention. Any attempt to circumvent, evade, nullify, undermine, or render ineffective the protections of this License — whether through technical, semantic, legal, procedural, organizational, or jurisdictional means — shall itself constitute a material violation of this License and shall subject the violating party to all remedies available to the Licensor under this License and under applicable law.
+
+ARTICLE VII — COMMERCIAL USE REQUIREMENTS
+
+7.1    Any Licensee that develops, manufactures, distributes, sells, leases, or otherwise commercializes a Commercial Product incorporating, embodying, or derived from the Licensed Technology shall comply with all of the following requirements as a condition of this License:
+
+(a)  Repairability and Modularity. The Commercial Product must be designed for repairability and modularity. No sealed, non-serviceable, permanently enclosed, or intentionally non-repairable assemblies shall be used where modular, serviceable designs are feasible. Components must be designed for removal and replacement by the end user using standard, commercially available tools.
+
+(b)  Complete Documentation. The Licensee must provide to every end user, at no additional cost and at or before the time of delivery, complete schematics, a full bill of materials (BOM), wiring diagrams, assembly instructions, and any other documentation necessary for the end user to understand, maintain, repair, and modify the Commercial Product.
+
+(c)  Open-Source Firmware. All firmware embedded in or associated with the Commercial Product must be released as open-source software. The Licensee must provide full source code, build instructions, compilation toolchains, and flashing tools sufficient for the end user to compile, modify, and install custom firmware on the Commercial Product.
+
+(d)  No Restrictive Mechanisms. The Commercial Product must not employ digital rights management (DRM), encryption lockouts, hardware-authentication keys, cloud-based activation requirements, subscription-based locking mechanisms, tethered software dependencies, or any other mechanism — whether hardware, software, or network-based — that restricts the end user's ability to operate, modify, repair, or resell the Commercial Product independently and without the Licensee's ongoing permission or involvement.
+
+(e)  Prototype to Author and Immediate Family. The Licensee must provide one (1) full working prototype unit of the Commercial Product to the Author, David E. Blackwell, at absolutely no cost to the Author, within sixty (60) calendar days of the first commercial sale, lease, or distribution of the Commercial Product. All costs associated with the prototype — including, without limitation, the unit cost, packaging, shipping, delivery, customs duties, import taxes, insurance, and handling — shall be borne entirely by the Licensee. The Licensee must also provide one (1) full working prototype unit, under the same zero-cost terms, to each member of the Author's immediate family — defined as the Author's spouse and the Author's biological or legally adopted children — upon written request by any such family member or their legal guardian, within ninety (90) calendar days of receipt of such written request. The purpose of all prototype deliveries under this Section is to enable the Author and the Author's immediate family to verify that the Commercial Product is fully compliant with all terms, conditions, and requirements of this License, including, without limitation, the open-hardware, right-to-repair, economic-accessibility, and peaceful-use provisions hereof. No fee, charge, cost, surcharge, deposit, handling fee, administrative fee, or expense of any kind shall be assessed against the Author or any member of the Author's immediate family in connection with any prototype delivery under this Section.
+
+(f)  Prototype to Author's Descendants in Perpetuity. The Licensee must provide one (1) full working prototype unit of the Commercial Product to each of the Author's direct descendants — defined as the Author's biological or legally adopted children and their biological or legally adopted children, in perpetuity and without generational limitation — upon written request by any such descendant or their legal guardian, within ninety (90) calendar days of receipt of such written request. All costs associated with the prototype — including, without limitation, the unit cost, packaging, shipping, delivery, customs duties, import taxes, insurance, and handling — shall be borne entirely by the Licensee. The sole and exclusive purpose of prototype deliveries under this Section is to enable the Author's descendants to verify ongoing compliance of the Commercial Product with all terms, conditions, and requirements of this License. No fee, charge, cost, surcharge, deposit, handling fee, administrative fee, or expense of any kind shall be assessed against any descendant or their legal guardian in connection with any prototype delivery under this Section. This obligation is perpetual and shall survive any transfer, assignment, sale, merger, acquisition, or reorganization of the Licensee's business.
+
+ARTICLE VIII — RIGHT-TO-REPAIR AND OPEN-HARDWARE REQUIREMENTS
+
+8.1    All Commercial Products subject to this License shall comply with the following open-hardware mandates. These requirements are mandatory, non-waivable, and shall apply for the entire commercial lifespan of the product and for a minimum of ten (10) years following the date of last commercial sale:
+
+(a)  Standard Fasteners Only. No proprietary, security, tamper-resistant, or non-standard fasteners — including proprietary screws, bolts, clips, pins, or retention mechanisms — shall be used in the construction of the Commercial Product. All fasteners must be standard types readily available from general-purpose hardware suppliers.
+
+(b)  No Permanent Joining Methods. No adhesive bonding (glue), heat-staking, ultrasonic welding, solvent welding, or other permanent joining methods shall be used where mechanical fasteners, snap-fit connections, or other reversible assembly methods are feasible. The intent of this provision is to ensure that every component of the Commercial Product can be non-destructively disassembled and reassembled by the end user.
+
+(c)  No Component Pairing or Software Locking. No serialized, paired, tethered, or software-locked components shall be used that prevent the replacement of any part with a generic, third-party, aftermarket, or user-fabricated equivalent. Component-authentication schemes, serial-number validation, and firmware-based part verification are expressly prohibited.
+
+(d)  No Hardware DRM. No digital rights management of any kind shall be applied to any hardware component, module, assembly, or subsystem of the Commercial Product.
+
+(e)  No Remote Disable. The Commercial Product shall not include any remote-disable capability, remote-bricking mechanism, over-the-air deactivation function, or any other means by which the Licensee, manufacturer, or any third party can remotely render the product inoperable, degraded, or non-functional without the end user's explicit, informed, and revocable consent.
+
+(f)  Open Design Files. Complete CAD files, STL files, STEP files, IGES files, machining drawings, and manufacturing specifications for all custom-designed components of the Commercial Product must be made freely available to the public, at no cost, under an open-hardware license that is compatible with the terms and spirit of this License.
+
+ARTICLE IX — ECONOMIC ACCESSIBILITY CLAUSE
+
+9.1    All Commercial Products subject to this License must be priced and designed for global economic accessibility. The Licensor intends that the benefits of the Licensed Technology shall be available to all persons and communities, regardless of economic status, geographic location, or national origin. To that end, the following requirements shall apply:
+
+(a)  No Luxury Pricing. The retail price of the Commercial Product must reflect actual manufacturing costs, assembly costs, and distribution costs, plus a reasonable profit margin. The price must not include artificial-scarcity premiums, brand-inflated pricing, status-driven markups, speculative pricing, or any other pricing strategy designed to restrict access to the product based on the purchaser's wealth or social status.
+
+(b)  Global Component Availability. All components used in the Commercial Product must be selected for global availability. Preference must be given to widely manufactured, commodity-grade, globally distributed parts that can be sourced from multiple suppliers in multiple countries. The use of sole-source, geographically restricted, or export-controlled components is discouraged and must be justified in writing if employed.
+
+(c)  Third-Party and Aftermarket Compatibility. Generic, third-party, and aftermarket replacement components must be permitted and must function without degradation. The use of such components must not void the product warranty, trigger software lockouts, generate error messages, degrade functionality, or otherwise penalize the end user.
+
+(d)  Discontinuation Protocol. If any proprietary or custom component of the Commercial Product becomes unavailable due to discontinuation, supply-chain disruption, or any other cause, the manufacturer must release full CAD files, STL files, STEP files, manufacturing specifications, and material specifications for that component within thirty (30) calendar days of the date on which the component becomes commercially unavailable. Such files must be released under an open-hardware license compatible with this License and must be made freely available to the public at no cost.
+
+ARTICLE X — CRIMES AGAINST HUMANITY CLAUSE
+
+10.1    Any use of the Licensed Technology that causes, facilitates, enables, contributes to, or is reasonably likely to result in harm against civilian populations, suppression of fundamental human rights, acts of war, crimes against humanity, genocide, ethnic cleansing, forced displacement, torture, or extrajudicial killing shall be deemed a violation not only of this License but also of the following instruments of international law:
+
+(a)  The Rome Statute of the International Criminal Court (1998), including, without limitation, Article 5 (Crimes within the Jurisdiction of the Court), Article 6 (Genocide), Article 7 (Crimes Against Humanity), and Article 8 (War Crimes);
+
+(b)  The Geneva Conventions of 1949 and their Additional Protocols of 1977, including all provisions relating to the protection of civilian persons in time of war, the treatment of prisoners of war, and the conduct of hostilities;
+
+(c)  The Hague Conventions of 1899 and 1907, including all provisions relating to the laws and customs of war on land and the rights and duties of neutral powers;
+
+(d)  The Charter of the United Nations, including, without limitation, Article 1 (Purposes), Article 2(4) (Prohibition on the Threat or Use of Force), and Article 55 (Promotion of Human Rights).
+
+10.2    The Licensor reserves the right, and hereby declares the intention, to refer any violation of this Article to the International Criminal Court, the Office of the Prosecutor of the International Criminal Court, relevant national judicial authorities, and international human-rights organizations — including, without limitation, the International Committee of the Red Cross, Amnesty International, and Human Rights Watch — for investigation, public documentation, and prosecution to the fullest extent permitted by applicable law.
+
+10.3    No claim of sovereign immunity, state secrecy, national security, military necessity, or executive privilege shall constitute a defense to a violation of this Article. The Licensor's invocation of international law herein is a declaration of moral and legal intent and is not contingent upon the jurisdiction or enforcement mechanisms of any single tribunal or court.
+
+ARTICLE XI — ENFORCEMENT BASIS
+
+11.1    This License is enforceable as a binding legal instrument under the following bodies of law, treaties, conventions, and regulatory frameworks:
+
+(a)  The Berne Convention for the Protection of Literary and Artistic Works (1886, as revised at Paris, 1971, and as subsequently amended), which establishes the international recognition and protection of copyright in creative and technical works;
+
+(b)  The United States Copyright Act, Title 17 of the United States Code, Section 101 et seq., which governs the exclusive rights of authors and copyright holders in the United States of America;
+
+(c)  International Humanitarian Law, including the Geneva Conventions of 1949 and their Additional Protocols of 1977, which establish the legal framework for the protection of civilian life during armed conflict;
+
+(d)  The European Union Digital Markets Act and applicable EU right-to-repair regulations, directives, and implementing legislation, which establish standards for interoperability, repairability, and consumer access to product information; and
+
+(e)  Any other applicable national or international intellectual-property, trade, export-control, or human-rights law that may provide additional grounds for the enforcement of this License or the protection of the Licensed Technology.
+
+11.2    This License shall be interpreted and enforced under the laws of the United States of America, with supplementary reference to applicable international treaties, conventions, and customary international law. The Licensor reserves the right to pursue enforcement in any jurisdiction where a violation has occurred, where a Derivative Work has been created or distributed, or where the Licensee maintains operations, assets, facilities, or commercial activity. The selection of one forum for enforcement shall not constitute a waiver of the Licensor's right to pursue parallel or subsequent enforcement in any other competent jurisdiction.
+
+ARTICLE XII — TERMINATION
+
+12.1    This License shall terminate immediately, automatically, and without prior notice upon any violation of the peaceful-use provisions (Articles I and II), prohibited-use provisions (Article III), crimes-against-humanity provisions (Article X), open-hardware and right-to-repair requirements (Articles VII and VIII), prototype-delivery obligations (Article VII, Sections 7.1(e) and 7.1(f)), or economic-accessibility requirements (Article IX) of this License.
+
+12.2    Upon termination of this License for any cause:
+
+(a)  All rights granted to the Licensee under this License shall cease immediately and without further action by the Licensor;
+
+(b)  The Licensee shall immediately cease all use, manufacture, sale, lease, distribution, promotion, marketing, and public demonstration of the Licensed Technology and any Derivative Works thereof;
+
+(c)  The Licensee shall destroy all copies, prototypes, pre-production units, tooling, molds, firmware images, source code, object code, documentation, design files, and any other materials related to or derived from the Licensed Technology within thirty (30) calendar days of the date of termination, and shall certify such destruction in writing to the Licensor; and
+
+(d)  Termination of this License shall not limit, prejudice, or waive the Licensor's right to seek compensatory damages, consequential damages, statutory damages, punitive damages, injunctive relief, specific performance, disgorgement of profits, or criminal referral under any applicable law, treaty, or convention.
+
+12.3    The provisions of Articles III, V, VI, X, and XI shall survive termination of this License and shall remain in full force and effect in perpetuity.
+
+ARTICLE XIII — DECLARATION OF PURPOSE
+
+13.1    This License is issued not merely as a legal instrument but as a declaration of intent. The Author offers the Licensed Technology to the world in the hope and with the express purpose that it will be used to uplift, educate, heal, inspire, and unite. The Holagraph Foundry ecosystem was conceived not as a product but as a gift — a body of work offered in the belief that humanity's greatest achievements arise when knowledge is shared freely and protected wisely.
+
+13.2    The Author envisions a future in which the boundaries of human experience are expanded through light, sound, and immersive wonder — not through violence, coercion, or domination. The Author believes that technology, at its highest expression, is an act of generosity: a means by which one generation may offer to the next the tools to see further, dream larger, and build with greater compassion.
+
+13.3    The Author believes that the most powerful technologies should serve the most vulnerable among us — the displaced, the forgotten, the underserved, and the silenced. This License is the Author's best effort to ensure that the Holagraph Foundry ecosystem remains, in perpetuity, a force for peace, creativity, accessibility, and shared human flourishing — now and for all generations to come.
+
+13.4    Let this work stand as proof that one person, working from conviction and imagination, can build something that matters — and can protect it for the world.
+
+*   *   *
+
+EXECUTED BY THE LICENSOR:
+
+Licensor:	David E. Blackwell
+Date:	April 22, 2026
+Location:	Wyandotte, Oklahoma, United States of America
+Signature of Licensor:
+
+David E. Blackwell
+
+Author and Sole Licensor
+
+This document constitutes the complete and exclusive statement of the license terms governing the Licensed Technology. It supersedes all prior or contemporaneous oral or written communications, proposals, representations, and negotiations with respect to the subject matter hereof. No oral or written modification, amendment, or supplement to this License shall be effective unless executed in writing by the Licensor.
+
+HPUL-X.2  |  Holagraph Peaceful-Use License  |  © 2026 David E. Blackwell  |  All Rights Reserved
